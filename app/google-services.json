@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680216353262",
+    "project_id": "whisperwave-848b5",
+    "storage_bucket": "whisperwave-848b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680216353262:android:c5fcb849b6066771cb96ff",
+        "android_client_info": {
+          "package_name": "com.chama.whisperwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcB8QnX49em_PI6nUwG3Dmbbdkv4e8kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
